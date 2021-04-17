@@ -14,7 +14,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("C:\\Users\\hp\\Desktop\\restuarant\\image\\3.png");
+  background: url("C:\\Users\\hp\\Desktop\\restuarant\\image\\3.PNG");
   background-size: cover;
   opacity: 0.75;
 }
@@ -297,7 +297,7 @@ img{
 /*Quote section*/
 
 .section-cover{
-  background-image:url("C:\\Users\\hp\\Desktop\\restuarant\\image\\2.jpg");
+  background-image:url("C:\\Users\\hp\\Desktop\\restuarant\\image\\2.JPG");
   background-size: cover;
   opacity: 0.6;
 }
